@@ -1,0 +1,12 @@
+# Python dependencies for neuroshare_mcd module
+
+# Core dependencies
+neuroshare>=0.9.0
+numpy>=1.19.0
+
+# Optional dependencies for examples and conversion
+matplotlib>=3.3.0  # For plotting in examples
+h5py>=3.0.0       # For HDF5 conversion
+
+# Development dependencies
+pytest>=6.0.0     # For testing
