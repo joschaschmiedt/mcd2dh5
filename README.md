@@ -2,6 +2,8 @@
 
 This module provides Python bindings to read Multi Channel Systems (MCS) .mcd files using the Neuroshare API via the python-neuroshare package.
 
+Note: Everything here is still AI slop.
+
 ## Installation
 
 ### Prerequisites
